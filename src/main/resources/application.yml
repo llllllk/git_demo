@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: edu-course
+server:
+  port: 8001
